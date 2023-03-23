@@ -10,7 +10,7 @@
 
 print "This is a serious Decoder for Youtube URLS & all the Credit goes to the Creator Hesam Moosapour.\n\n\n";
 
-print "We stand with people of Ukraine 🇺🇦  \n\n";
+print "Men Are Good. \n\n";
 
 $input = readline("Enter the Youtube URL to parse: ");
 
